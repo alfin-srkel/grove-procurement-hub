@@ -1,0 +1,7 @@
+streamlit==1.41.1
+gspread==6.1.4
+google-auth==2.38.0
+google-auth-oauthlib==1.2.1
+duckduckgo-search==7.5.3
+openpyxl==3.1.5
+pandas==2.2.3
